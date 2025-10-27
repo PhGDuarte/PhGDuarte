@@ -1,4 +1,4 @@
-# Olá, sou Raphael Duarte
+# Olá, sou Raphael Duarte 👋😃
 Analista de Dados, formado em administração pela UGF e pós-graduado em Data Science e Analytics pela USP/Esalq.
 
 Profissional com perfil analítico, colaborativo e adaptável, com facilidade para identificar padrões, interpretar dados e gerar insights que apoiam a tomada de decisão.
